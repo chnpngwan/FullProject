@@ -1,0 +1,14 @@
+
+需要添加的依赖
+<dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.1.0</version>
+ </dependency>
+
+需要修改的依赖
+<dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.27</version>
+ </dependency>
